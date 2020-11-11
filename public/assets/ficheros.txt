@@ -1,0 +1,13 @@
+bueno_muerto.png
+bueno.png
+clases.png
+ficheros.txt
+game_over.png
+jefe_muerto.png
+jefe.png
+malo_muerto.png
+malo.png
+screenshot.png
+shot1.png
+shot2.png
+you_win.png
